@@ -1,0 +1,23 @@
+{
+    "name": "gh-workflows",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "lint": "d2-style check",
+        "format": "d2-style apply"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dhis2/gh-workflows.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dhis2/gh-workflows/issues"
+    },
+    "homepage": "https://github.com/dhis2/gh-workflows#readme",
+    "devDependencies": {
+        "@dhis2/cli-style": "^10.4.2"
+    }
+}
