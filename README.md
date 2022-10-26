@@ -1,6 +1,6 @@
-# gh-workflows
+# workflow-app-verify-commits
 
-Create the file `.github/workflows/verify_commits.yml`. Example of contents:
+Create the file `.github/workflows/verify_commits.yml` in your repo. Contents:
 
 ```
 name: 'dhis2: verify (commits)'
