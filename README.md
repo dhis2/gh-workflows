@@ -11,5 +11,5 @@ on:
 
 jobs:
     reusable_verify_commit_workflow_job:
-        uses: dhis2/gh-workflows/.github/workflows/dhis2-verify-commits.yml@main
+        uses: dhis2/workflow-app-verify-commits/.github/workflows/app-verify-commits.yml@main
 ```
